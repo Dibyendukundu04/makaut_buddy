@@ -104,7 +104,7 @@ const Data = () => {
               "Gauss-Jordan elimination is a linear algebra method for solving systems of equations by transforming a matrix to reduced row-echelon form, allowing straightforward solution extraction.",
             link: "https://www.youtube.com/watch?v=oPkTasoJngA",},
             {key: 15,
-              heading: "Vector Space",
+              heading: "Vector Space", 
               description:
                 "Vector space method is a mathematical framework used in natural language processing, representing words as vectors in multidimensional space to analyze relationships and semantics within textual data.",
               link: "https://www.youtube.com/watch?v=1XlT3Y2oyAU&list=PLU6SqdYcYsfI7Ebw_j-Vy8YKHdbHKP9am",},
